@@ -8,13 +8,6 @@ body {
     font-family: 'Lora';
 }
 
-
-
-
-
-
-
-
 .home-container{
     text-align: center;
 }
@@ -692,16 +685,6 @@ footer {
 
 
 
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-}
 
 .navbar {
   display: flex;
